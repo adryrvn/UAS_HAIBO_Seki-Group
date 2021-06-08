@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/user_selector"
+        android:title="@string/user" />
+
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@drawable/fav_selector"
+        android:title="@string/fav" />
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_selector"
+        android:title="@string/home" />
+
+
+    <item
+        android:id="@+id/nav_dev"
+        android:icon="@drawable/dev_selector"
+        android:title="@string/developer" />
+
+</menu>

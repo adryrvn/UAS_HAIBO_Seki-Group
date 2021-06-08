@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Haibo</string>
+    <string name="title_activity_index">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_hint">What do you wanna search?</string>
+    <string name="developer">Developer</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorite</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="korea1">In South Korea’s upper-class society, where wealthy families unscrupulously cultivate their children into celebrities, accompanied by revenge, affairs, money transactions, and others.</string>
+    <string name="korea2">During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice.</string>
+    <string name="jepang1">After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he is lost.</string>
+    <string name="jepang2">Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.</string>
+</resources>

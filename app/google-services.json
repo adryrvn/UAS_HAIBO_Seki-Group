@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483426682608",
+    "project_id": "uas-mobile-70561",
+    "storage_bucket": "uas-mobile-70561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483426682608:android:9fdab94b4da35c1e81e435",
+        "android_client_info": {
+          "package_name": "umn.ac.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483426682608-jd58ljf6m15erd4ttl7op6ob73pkbd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfQr9Ob1ReKiVtd0e-eJs93HoRGPn0K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483426682608-jd58ljf6m15erd4ttl7op6ob73pkbd8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
